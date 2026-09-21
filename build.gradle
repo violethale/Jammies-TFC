@@ -138,18 +138,18 @@ dependencies {
 
     // EMI
     compileOnly "dev.emi:emi-neoforge:${emi_version}:api"
-    // runtimeOnly "dev.emi:emi-neoforge:${emi_version}"
+    runtimeOnly "dev.emi:emi-neoforge:${emi_version}"
 
     // JEI
     compileOnly "mezz.jei:jei-${minecraft_version}-neoforge-api:${jei_version}"
-    runtimeOnly "mezz.jei:jei-${minecraft_version}-neoforge:${jei_version}"
+    // runtimeOnly "mezz.jei:jei-${minecraft_version}-neoforge:${jei_version}"
 
     // Jade
     // runtimeOnly "maven.modrinth:jade:${jade_version}"
 
     // Compats
     implementation "maven.modrinth:firmalife:${firmalife_version}"
-    implementation "curse.maven:kubas-tfc-additions-1213369:${kubastfca_version}"
+    compileOnly "curse.maven:kubas-tfc-additions-1213369:${kubastfca_version}"
 
     implementation "mod.traister101.datagenutils:Datagen-Utils-1.21.1:1.2.1"
 }

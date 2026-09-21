@@ -17,12 +17,9 @@ An addon mod for **TerrafirmaCraft (TFC:TNG)** that reworks how **Jams** and **P
 * **Jams** can be sealed back into **Preserves**
 * Opening a **Preserve** is as easy as right-clicking it
 
-## Compatability
+## Compatibility
 * Firmalife
 * KubasTFCAdditions
 
 ## Documentation
 * All documentation for the mod is available on its [**wiki**](https://github.com/IllusiveAcie/Jammies-TFC/wiki)
-
-## License
-[![License (MIT)](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](https://github.com/IllusiveAcie/Jammies-TFC/blob/1.21.1/LICENSE)

@@ -1,8 +1,8 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.lxshh.jammies.mixin",
-  "plugin": "net.lxshh.jammies.mixin.JammiesMixinPlugin",
+  "package": "io.github.violethale.jammies.mixin",
+  "plugin": "io.github.violethale.jammies.mixin.JammiesMixinPlugin",
   "mixins": [
     "FirmalifeVatBlockMixin",
     "JamPotRecipeMixin",
